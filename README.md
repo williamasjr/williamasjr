@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <br />
 
  <h1>Hi there, I am William 👋<h1/>
-  <h3>My name is William Alves, i livnig in Brasilia-DF, and I'm studying fullstack web development at trybe<h3/>
+  <h3>My name is William Alves, i living in Brasilia-DF, and I'm studying software developer since 2022<h3/>
 
 <p align="center">
-    Typescript.js | POO | Node.js | Express | Sequelize | SQL | Docker | JavaScript | HTML | CSS | React.js
+    Java | Spring Boot | Typescript.js | Node.js | Express | Sequelize | SQL | Docker | JavaScript | HTML | CSS | React.js
 </p>
