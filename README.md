@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <br />
 
  <h1>Hi there, I am William 👋<h1/>
-  <h3>My name is William Alves, i living in Brasilia-DF, and I'm studying software developer since 2022<h3/>
+  <h3>I am a passionate programmer dedicated to creating
+technological solutions and seeking opportunities to
+kickstart my career as a junior full stack programmer.
+<h3/>
 
 <p align="center">
-    Java | Spring Boot | Typescript.js | Node.js | Express | Sequelize | SQL | Docker | JavaScript | HTML | CSS | React.js
+    Java | Spring Boot | Typescript.js | Node.js | MongoDB | MySqL | Docker | JavaScript | React.js | HTML | CSS | 
 </p>
