@@ -25,5 +25,5 @@ Here are some ideas to get you started:
  <h3>Hi there, I am William 👋<h3/>
 
 <p align="center">
-     Node.js | Typescript | sql | Docker | React.js | Java | Spring Boot  
+     Node.js | Typescript | Sql | Docker | React.js | Java | Spring Boot  
 </p>
